@@ -1,2 +1,2 @@
 # sentiment-lstm
-In this we ppreedict whether a review is positive or negative using LSTM
+In this we predict whether a review is positive or negative using LSTM
